@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Download Page HTML</title>
+</head>
+<body>
+
+<div class="col-md-12 text-right mb-3">
+    <button class="btnn btnn-primary" id="download">Download PDF</button>
+</div>
+
+<div class="container" id="invoice">
+    <section class="wthree-row w3-gallery py-5">
+        <div class="container py-xl-5">
+            <div class="w3l_header mb-sm-5 pb-3">
+                <h3 class="text-center">1st SEM SGPA</h3>
+            </div>
+        </div>
+        <!-- //gallery container -->
+
+        <div class="container">
+            <div class="login mb-sm-5 px-4 mx-auto mw-100">
+                <form id="1stsem" action="#" method="post">
+                    <!-- Your form content -->
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <fieldset disabled>
+                    <div class="container" style="margin:0 auto; width: 50%;">
+                        <legend>Result</legend>
+                        <!-- Your result fields -->
+                    </div>
+                </fieldset>
+            </div>
+        </div>
+
+    </section>
+</div>
+
+<script>
+document.getElementById("download").addEventListener("click", function() {
+    // Get the HTML content of the entire page
+    var htmlContent = document.documentElement.outerHTML;
+    
+    // Create a Blob containing the HTML content
+    var blob = new Blob([htmlContent], { type: "text/html" });
+    
+    // Create a link element
+    var a = document.createElement("a");
+    
+    // Set the href attribute of the link to the Blob
+    a.href = URL.createObjectURL(blob);
+    
+    // Set the download attribute to specify the filename
+    a.download = "page.html";
+    
+    // Append the link to the document body
+    document.body.appendChild(a);
+    
+    // Click the link to initiate the download
+    a.click();
+    
+    // Remove the link from the document body
+    document.body.removeChild(a);
+});
+</script>
+
+</body>
+</html>
