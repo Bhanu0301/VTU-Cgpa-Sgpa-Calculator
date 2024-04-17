@@ -37,16 +37,15 @@ The VTU CGPA/SGPA Calculator is a web-based tool designed to assist students of 
 
 ## Screenshots
 
-![Screenshot 2024-04-17 101713](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/3ce7c6ff-9531-4c4e-b116-035f5b522705)
-![Screenshot 2024-04-17 101701](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/cd6c9897-63a3-4a53-b47f-b27b36eedc03)
-![Screenshot 2024-04-17 101550](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/d4b5d148-eb99-41a1-a8f3-01a469c2af45)
 ![Screenshot 2024-04-17 101515](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/1e6b97ee-c92d-413e-b737-4d7c75889e46)
-![Screenshot 2024-04-17 102026](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/4e840d28-9768-4652-9c73-766c63dc3a0c)
-![Screenshot 2024-04-17 101952](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/5010f91b-865b-4546-a045-1825ce716c4c)
-![Screenshot 2024-04-17 101844](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/afe92e9a-e67e-4619-b017-54cb4365cff8)
-![Screenshot 2024-04-17 101820](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/9f1aba79-4966-4deb-a02f-cfafe6d1d493)
+![Screenshot 2024-04-17 101550](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/d4b5d148-eb99-41a1-a8f3-01a469c2af45)
+![Screenshot 2024-04-17 101701](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/cd6c9897-63a3-4a53-b47f-b27b36eedc03)
+![Screenshot 2024-04-17 101713](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/3ce7c6ff-9531-4c4e-b116-035f5b522705)
 ![Screenshot 2024-04-17 101740](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/1dc3af67-cf07-4e91-99fb-be8e3d42507e)
-
+![Screenshot 2024-04-17 101820](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/9f1aba79-4966-4deb-a02f-cfafe6d1d493)
+![Screenshot 2024-04-17 101844](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/afe92e9a-e67e-4619-b017-54cb4365cff8)
+![Screenshot 2024-04-17 101952](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/5010f91b-865b-4546-a045-1825ce716c4c)
+![Screenshot 2024-04-17 102026](https://github.com/Bhanu0301/VTU-Cgpa-Sgpa-Calculator/assets/106879319/4e840d28-9768-4652-9c73-766c63dc3a0c)
 
 
 ## Credits
